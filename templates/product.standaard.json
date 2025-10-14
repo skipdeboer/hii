@@ -406,11 +406,12 @@
         "testimonial_hfKTY9": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/10_c6df6d53-c715-480d-8148-3bf54f3a6f5e.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "John S. (55 Jaar)",
-            "title": "Super!",
+            "author": "Anna. (55 Jaar)",
+            "title": "Super sokken!",
             "content": "<p>Klantenservice reageert snel en vriendelijk. Ik had een vraag over mijn bestelling en werd meteen geholpen.</p>"
           }
         },
@@ -507,7 +508,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#30545c",
+        "background": "#dd2e63",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
