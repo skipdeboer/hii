@@ -15,8 +15,8 @@
         "block-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/imgi_59_imgi_3_Everstride-Hero_e31746d1-4777-4ef0-bcd3-0fa8ce372c00.jpg",
-            "mobile_image": "shopify://shop_images/imgi_59_imgi_3_Everstride-Hero_eaf36cb8-d263-4d90-a99c-9daae19611ba.jpg",
+            "image": "shopify:\/\/shop_images\/imgi_59_imgi_3_Everstride-Hero_e31746d1-4777-4ef0-bcd3-0fa8ce372c00.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/imgi_59_imgi_3_Everstride-Hero_eaf36cb8-d263-4d90-a99c-9daae19611ba.jpg",
             "content_max_width": 920,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -24,7 +24,7 @@
             "title": "De originele brede compressiekousen voor vrouwen",
             "heading_tag": "h4",
             "button_text": "Shop Nu",
-            "button_link": "shopify://collections/dames",
+            "button_link": "shopify:\/\/collections\/dames",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -67,7 +67,7 @@
         "richtext_A4rccq": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Bij Elvori geloven we dat elke vrouw recht heeft op lichte, verzorgde en zelfverzekerde stappen — elke dag opnieuw.</p>"
+            "content": "<p>Bij Elvori geloven we dat elke vrouw recht heeft op lichte, verzorgde en zelfverzekerde stappen — elke dag opnieuw.<\/p>"
           }
         }
       },
@@ -122,7 +122,7 @@
             "rating": 5,
             "author": "Yara W.",
             "title": "Super sokken!",
-            "content": "<p>Kon nog maar korte stukjes lopen door zware benen. Sinds ik Elvori draag, loop ik weer zonder pijn naar de winkel én houd ik het veel langer vol</p>"
+            "content": "<p>Kon nog maar korte stukjes lopen door zware benen. Sinds ik Elvori draag, loop ik weer zonder pijn naar de winkel én houd ik het veel langer vol<\/p>"
           }
         },
         "testimonial_Cj8zF9": {
@@ -133,7 +133,7 @@
             "rating": 5,
             "author": "Moniek A.",
             "title": "Goed geholpen",
-            "content": "<p>Sta hele dagen recht in het ziekenhuis voor werk, vroeger deed dat pijn aan m’n benen. Met Elvori voel ik aan het einde van de dag nog steeds energie in mijn benen.</p>"
+            "content": "<p>Sta hele dagen recht in het ziekenhuis voor werk, vroeger deed dat pijn aan m’n benen. Met Elvori voel ik aan het einde van de dag nog steeds energie in mijn benen.<\/p>"
           }
         },
         "testimonial_qXddQj": {
@@ -144,7 +144,7 @@
             "rating": 4,
             "author": "Anna A.",
             "title": "Zeer tevreden!",
-            "content": "<p>Na lange diensten op het werk had ik altijd zware benen. Sinds ik Elvori draag, merk ik dat de druk wegblijft en m’n benen niet meer pijn doen s'avonds.</p>"
+            "content": "<p>Na lange diensten op het werk had ik altijd zware benen. Sinds ik Elvori draag, merk ik dat de druk wegblijft en m’n benen niet meer pijn doen s'avonds.<\/p>"
           }
         },
         "testimonial_GGRWDP": {
@@ -155,7 +155,7 @@
             "rating": 5,
             "author": "Sophie L.",
             "title": "Een echte aanrader!",
-            "content": "<p>Ik had altijd last van dikke enkels na het lopen met de hond. Nu blijft alles mooi slank en voel ik m’n benen veel minder zwaar.</p>"
+            "content": "<p>Ik had altijd last van dikke enkels na het lopen met de hond. Nu blijft alles mooi slank en voel ik m’n benen veel minder zwaar.<\/p>"
           }
         }
       },
@@ -190,56 +190,56 @@
           "type": "item",
           "settings": {
             "title": "Wat is het verschil tussen Everstride en andere merken?",
-            "content": "<p>Kort gezegd: we hebben compressiesokken gemaakt die je écht graag zult dragen!</p><p>In tegenstelling tot andere merken die te strak zitten, lastig aan te trekken zijn of oncomfortabel voelen, zijn onze sokken ontworpen om <strong>makkelijk te dragen</strong> en tegelijkertijd <strong>comfortabele en effectieve verlichting</strong> te bieden.</p>"
+            "content": "<p>Kort gezegd: we hebben compressiesokken gemaakt die je écht graag zult dragen!<\/p><p>In tegenstelling tot andere merken die te strak zitten, lastig aan te trekken zijn of oncomfortabel voelen, zijn onze sokken ontworpen om <strong>makkelijk te dragen<\/strong> en tegelijkertijd <strong>comfortabele en effectieve verlichting<\/strong> te bieden.<\/p>"
           }
         },
         "item_HVWmER": {
           "type": "item",
           "settings": {
             "title": "Wat is de 60-dagen pasvormgarantie van Elvori",
-            "content": "<p>We staan volledig achter onze producten. Als je niet tevreden bent met de pasvorm of het comfort binnen 60 dagen, kun je contact opnemen met ons team voor een passende oplossing.</p>"
+            "content": "<p>We staan volledig achter onze producten. Als je niet tevreden bent met de pasvorm of het comfort binnen 60 dagen, kun je contact opnemen met ons team voor een passende oplossing.<\/p>"
           }
         },
         "item_E8DTMm": {
           "type": "item",
           "settings": {
             "title": "Zijn de sokken makkelijk aan te trekken, ook met beperkte mobiliteit?",
-            "content": "<p>Ja! Onze compressiesokken zijn ontworpen om <strong>gemakkelijk aan te trekken</strong>.<br/><br/>Ze zijn <strong>zacht en rekbaar</strong>, en speciaal gemaakt met <strong>brede kuiten</strong> in gedachten.</p>"
+            "content": "<p>Ja! Onze compressiesokken zijn ontworpen om <strong>gemakkelijk aan te trekken<\/strong>.<br\/><br\/>Ze zijn <strong>zacht en rekbaar<\/strong>, en speciaal gemaakt met <strong>brede kuiten<\/strong> in gedachten.<\/p>"
           }
         },
         "item_NqUXzC": {
           "type": "item",
           "settings": {
             "title": "Hoe lang kan ik de sokken dragen?",
-            "content": "<p>Je kunt onze compressiesokken <strong>de hele dag dragen</strong>, meestal tussen de <strong>8 en 12 uur</strong>.<br/><br/>Ze zijn ontworpen voor langdurig gebruik en bieden <strong>ondersteuning en comfort</strong>, of je nu veel staat, lang zit of actief bezig bent.</p><p>Het wordt aangeraden om ze <strong>uit te trekken voordat je gaat slapen</strong>, tenzij anders wordt geadviseerd.</p><p></p>"
+            "content": "<p>Je kunt onze compressiesokken <strong>de hele dag dragen<\/strong>, meestal tussen de <strong>8 en 12 uur<\/strong>.<br\/><br\/>Ze zijn ontworpen voor langdurig gebruik en bieden <strong>ondersteuning en comfort<\/strong>, of je nu veel staat, lang zit of actief bezig bent.<\/p><p>Het wordt aangeraden om ze <strong>uit te trekken voordat je gaat slapen<\/strong>, tenzij anders wordt geadviseerd.<\/p><p><\/p>"
           }
         },
         "item_mDqr7W": {
           "type": "item",
           "settings": {
             "title": "Kan ik deze sokken dragen tijdens lange vluchten?",
-            "content": "<p>Ja, onze compressiesokken zijn <strong>perfect voor lange vluchten!</strong><br/><br/>Ze helpen de <strong>bloedsomloop te verbeteren</strong>, <strong>zwelling te verminderen</strong> en <strong>ongemak te voorkomen</strong> tijdens langdurig zitten.</p>"
+            "content": "<p>Ja, onze compressiesokken zijn <strong>perfect voor lange vluchten!<\/strong><br\/><br\/>Ze helpen de <strong>bloedsomloop te verbeteren<\/strong>, <strong>zwelling te verminderen<\/strong> en <strong>ongemak te voorkomen<\/strong> tijdens langdurig zitten.<\/p>"
           }
         },
         "item_M3FRac": {
           "type": "item",
           "settings": {
             "title": "Hoe strak zitten de sokken en welke druk bieden ze?",
-            "content": "<p>Onze compressiesokken hebben een <strong>geleidelijke druk van 15–20 mmHg</strong>, wat zorgt voor de perfecte balans tussen <strong>ondersteuning en verlichting</strong> zonder te strak te voelen.</p><p>Deze <strong>zachte, geleidelijke compressie</strong> biedt constante ondersteuning van <strong>enkel tot kuit</strong>, waardoor ze comfortabel genoeg zijn om de hele dag te dragen en toch effectief <strong>zwelling en ongemak verminderen</strong>.</p>"
+            "content": "<p>Onze compressiesokken hebben een <strong>geleidelijke druk van 15–20 mmHg<\/strong>, wat zorgt voor de perfecte balans tussen <strong>ondersteuning en verlichting<\/strong> zonder te strak te voelen.<\/p><p>Deze <strong>zachte, geleidelijke compressie<\/strong> biedt constante ondersteuning van <strong>enkel tot kuit<\/strong>, waardoor ze comfortabel genoeg zijn om de hele dag te dragen en toch effectief <strong>zwelling en ongemak verminderen<\/strong>.<\/p>"
           }
         },
         "item_GbzhDB": {
           "type": "item",
           "settings": {
             "title": "Kan ik deze sokken dragen bij diabetes, spataderen of oedeem?",
-            "content": "<p>Ja! Onze compressiesokken zijn ontworpen om te helpen bij <strong>diabetes, spataderen en oedeem</strong>.<br/><br/>Ze bieden een <strong>zachte, geleidelijke compressie</strong> die de <strong>bloedsomloop verbetert</strong>, <strong>zwelling vermindert</strong> en <strong>ongemak verlicht</strong>.</p>"
+            "content": "<p>Ja! Onze compressiesokken zijn ontworpen om te helpen bij <strong>diabetes, spataderen en oedeem<\/strong>.<br\/><br\/>Ze bieden een <strong>zachte, geleidelijke compressie<\/strong> die de <strong>bloedsomloop verbetert<\/strong>, <strong>zwelling vermindert<\/strong> en <strong>ongemak verlicht<\/strong>.<\/p>"
           }
         },
         "item_qH3Ezx": {
           "type": "item",
           "settings": {
             "title": "Wordt het voetgedeelte groter bij grotere sokmaten?",
-            "content": "<p>Ja, naarmate de maat toeneemt, wordt ook het <strong>voetgedeelte iets ruimer</strong>.<br/><br/>We begrijpen dat mensen met bredere kuiten vaak ook <strong>grotere voeten</strong> hebben, dus dit zorgt ervoor dat de pasvorm <strong>comfortabel en ondersteunend blijft in elke maat</strong>.</p>"
+            "content": "<p>Ja, naarmate de maat toeneemt, wordt ook het <strong>voetgedeelte iets ruimer<\/strong>.<br\/><br\/>We begrijpen dat mensen met bredere kuiten vaak ook <strong>grotere voeten<\/strong> hebben, dus dit zorgt ervoor dat de pasvorm <strong>comfortabel en ondersteunend blijft in elke maat<\/strong>.<\/p>"
           }
         }
       },
@@ -257,9 +257,9 @@
         "full_width": true,
         "subheading": "",
         "title": "Vragen?",
-        "content": "<p>Bekijk de meestgestelde vragen van onze klanten. Staat jouw vraag er niet tussen? Neem gerust contact op met onze klantenservice.</p>",
+        "content": "<p>Bekijk de meestgestelde vragen van onze klanten. Staat jouw vraag er niet tussen? Neem gerust contact op met onze klantenservice.<\/p>",
         "team_avatar_width": 160,
-        "support_hours": "Ons supportteam is bereikbaar van maandag t/m vrijdag, 9:00 – 18:00 uur.",
+        "support_hours": "Ons supportteam is bereikbaar van maandag t\/m vrijdag, 9:00 – 18:00 uur.",
         "answer_time": "We reageren meestal binnen 24 uur",
         "button_text": "",
         "button_url": "",
@@ -307,10 +307,10 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>40mm Beryllium</p>",
-            "value_2": "<p>245g</p>",
-            "value_3": "<p>165mm x 190mm x 66mm</p>",
-            "value_4": "<p>24 hours</p>",
+            "value_1": "<p>40mm Beryllium<\/p>",
+            "value_2": "<p>245g<\/p>",
+            "value_3": "<p>165mm x 190mm x 66mm<\/p>",
+            "value_4": "<p>24 hours<\/p>",
             "value_5": "",
             "value_6": "",
             "value_7": "",
@@ -335,10 +335,10 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>40mm Beryllium</p>",
-            "value_2": "<p>205g (On-Ear), 239g (Over-Ear)</p>",
-            "value_3": "<p>190mm x 155mm x 34mm (On-Ear), 200mm x 165mm x 40mm (Over-Ear)</p>",
-            "value_4": "<p>16 hours</p>",
+            "value_1": "<p>40mm Beryllium<\/p>",
+            "value_2": "<p>205g (On-Ear), 239g (Over-Ear)<\/p>",
+            "value_3": "<p>190mm x 155mm x 34mm (On-Ear), 200mm x 165mm x 40mm (Over-Ear)<\/p>",
+            "value_4": "<p>16 hours<\/p>",
             "value_5": "",
             "value_6": "",
             "value_7": "",
@@ -370,7 +370,7 @@
         "full_width": true,
         "subheading": "Compare",
         "title": "Highlight key differences at a glance",
-        "content": "<p>This section is perfect for showcasing product comparisons side-by-side. Use it to display key features, specifications, and pricing so customers can quickly decide which item fits their needs.</p>",
+        "content": "<p>This section is perfect for showcasing product comparisons side-by-side. Use it to display key features, specifications, and pricing so customers can quickly decide which item fits their needs.<\/p>",
         "button_text": "Learn more",
         "button_url": "",
         "text_position": "start",

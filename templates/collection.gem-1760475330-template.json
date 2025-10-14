@@ -1,0 +1,146 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "collection_title_size": "h0",
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "featured_product": "",
+        "featured_product_heading": "Featured product",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "products_per_page": 24,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "filter_layout": "sidebar",
+        "show_sort_by": false,
+        "show_filters": false,
+        "show_filter_group_name": false,
+        "show_filter_values_count": false,
+        "open_first_filter_group": false
+      }
+    },
+    "image_link_blocks_yatwja": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_H3de6X": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Discover_timeless_and_sophisticated_Office_Old.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_7nV7Kb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1220aa9d-94c0-4e20-a8e6-23cf1cd308ef.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_DHpGTd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Discover_15_different_old_money_aesthetic.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_yYiFTD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Men_in_Old_Money_style.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_WVqHfq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6860b827-2875-4e44-8f53-48353c67124a.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_H3de6X",
+        "item_7nV7Kb",
+        "item_DHpGTd",
+        "item_yYiFTD",
+        "item_WVqHfq"
+      ],
+      "disabled": true,
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": true,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Join onze community",
+        "content": "<p>Meer dan 15.000+ Tevreden klanten<\/p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "main",
+    "image_link_blocks_yatwja"
+  ]
+}
