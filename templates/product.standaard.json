@@ -402,6 +402,7 @@
         "testimonial_gNGL7N": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/2_ce0e5a43-6d68-4138-babc-06db830ac0ea.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -413,6 +414,7 @@
         "testimonial_Tc3LzW": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1_cf9de1e1-aac4-4472-99f6-759e9c915908.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -424,6 +426,7 @@
         "testimonial_Ud8tK8": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/3_1b91f065-dfd0-4eec-9738-39920c7955a7.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -435,6 +438,7 @@
         "testimonial_ibNYnA": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/HELLO1_-_2024-09-17T135145.682.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
