@@ -18,28 +18,6 @@
             "liquid": "<div class=\"rating-container-prov\" style=\"font-size: 11px;\">\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n\n  <span class=\"review-text\">\n    <span class=\"bold-text\" style=\"font-weight: bold;\">4,8 / 5,0</span> gebaseerd op \n    <span class=\"bold-text\" style=\"font-weight: bold;\">495+ beoordelingen</span>\n  </span>\n</div>"
           }
         },
-        "section_store_block_social_proof_eGUGFn": {
-          "type": "shopify://apps/section-store/blocks/block-social-proof/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
-          "disabled": true,
-          "settings": {
-            "use_carousel": false,
-            "profile1": "shopify://shop_images/imgi_17_1b423f62fa5eeb1896b3c5b11243827d.jpg",
-            "profile2": "shopify://shop_images/imgi_21_FAB1C60E-6DA8-48D9-B0F4-1FD6B8A1BA51.png",
-            "profile3": "shopify://shop_images/imgi_25_9af55eb1935530c8bc9d99a5497cb765.jpg",
-            "slide_icon_size": 21,
-            "text": "<p><strong>David</strong> ✓, <strong>Mark</strong> ✓ En 15.000+ andere dragen ELVORI</p>",
-            "text_size": 13,
-            "text_color": "#000000",
-            "symbols_color": "#42a5f5",
-            "border": "solid",
-            "border_thickness": 1,
-            "border_color": "#d7d7d7",
-            "radius": 0,
-            "bg_color": "#f6f6f6",
-            "padding_vertical": 12,
-            "padding_horizontal": 10
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -54,50 +32,6 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
-          }
-        },
-        "section_store_block_benefits_list_yaRf4X": {
-          "type": "shopify://apps/section-store/blocks/block-benefits-list/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
-          "settings": {
-            "items_gap": 2,
-            "first_text": "<p>Gratis verzending in NL & BE</p>",
-            "second_text": "<p>100% Retour garantie</p>",
-            "third_text": "<p>Meer dan 5.000+ Tevreden klanten</p>",
-            "fourth_text": "",
-            "icon_size": 13,
-            "icon_color": "#2a555a",
-            "text_size": 15,
-            "text_color": "#000000",
-            "content_align": "left",
-            "border": "none",
-            "border_thickness": 1,
-            "border_color": "#000000",
-            "radius": 0,
-            "background": "",
-            "padding_vertical": 0,
-            "padding_horizontal": 0
-          }
-        },
-        "section_store_block_pulse_badge_NA4q9U": {
-          "type": "shopify://apps/section-store/blocks/block-pulse-badge/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
-          "settings": {
-            "content_align": "left",
-            "use_indicator": false,
-            "pulse_icon_size": 8,
-            "pulse_icon_color": "#f1831d",
-            "text": "<p>Laatste items in voorraad</p>",
-            "text_size": 13,
-            "auto_text_weight": "normal",
-            "text_color": "#f1831c",
-            "border": "none",
-            "border_thickness": 1,
-            "border_color": "#000000",
-            "radius": 0,
-            "background": "",
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "padding_left": 0,
-            "padding_right": 0
           }
         },
         "rating": {
@@ -121,33 +55,6 @@
             "size_chart_page": ""
           }
         },
-        "section_store_block_countdown_timer_dkrwRC": {
-          "type": "shopify://apps/section-store/blocks/block-countdown-timer/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
-          "disabled": true,
-          "settings": {
-            "hour": 5,
-            "minute": 32,
-            "second": 26,
-            "progress_start": 20,
-            "action_on_complete": "hide",
-            "number_size": 15,
-            "number_color": "#000000",
-            "text": "<p>Zomer Sale eindigt in:</p>",
-            "text_size": 14,
-            "text_color": "#000000",
-            "progress_default_color": "#ebe9eb",
-            "progress_active_color": "#2a555a",
-            "border": "none",
-            "border_thickness": 1,
-            "border_color": "#000000",
-            "radius": 0,
-            "background": "",
-            "padding_top": 4,
-            "padding_bottom": 4,
-            "padding_left": 0,
-            "padding_right": 0
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -157,31 +64,6 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
-          }
-        },
-        "section_store_block_shipping_info_y4azEH": {
-          "type": "shopify://apps/section-store/blocks/block-shipping-info/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
-          "settings": {
-            "use_dot": true,
-            "icon_color": "#2a555a",
-            "icon_size": 12,
-            "ships_by_text": "Verzonden:",
-            "shipping_within_days": 1,
-            "include_weekend": true,
-            "ships_by_font_size": 14,
-            "ships_by_text_color": "#000000",
-            "fast_shipping_text": "COUNTRY_FLAG Gratis verzending",
-            "allow_all_countries": true,
-            "allowed_countries": "US,CH,DE,AT,FR,IT",
-            "fast_shipping_text_for_rest_countries": "Fast International Shipping",
-            "fast_shipping_text_color": "#000000",
-            "border_style": "none",
-            "border_width": 1,
-            "border_color": "#000000",
-            "border_radius": 0,
-            "bg_color": "#f6f6f6",
-            "padding_vertical": 6,
-            "padding_horizontal": 15
           }
         },
         "offer_CE7M4Y": {
@@ -197,42 +79,50 @@
             "text_color": "#c30100"
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
         "collapsible_text_Y6pUC9": {
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "VERZENDING & RETOURNEREN",
-            "content": "<p>Wij bieden gratis verzending binnen Nederland & België, samen met onze vertrouwde partners PostNL & Bpost. Je kunt jouw pakketje eenvoudig volgen via de Track & Trace code die je ontvangt.<br/><br/>Niet tevreden met uw aankoop? U kunt uw artikelen binnen 30 dagen retourneren, zonder opgaaf van reden.</p>",
+            "title": "60 DAGEN RETOUR GARANTIE",
+            "content": "<p>De juiste pasvorm is alles. Daarom krijg je bij ons 60 dagen de tijd om je sokken écht te testen — draag ze, was ze, en ervaar het verschil.</p><p>Zitten ze niet helemaal goed? Stuur ons gewoon een e-mail met je bestelnummer en de maat die je nodig hebt. Wij sturen je gratis een nieuw paar op — het eerste paar mag je houden.</p><p>Want comfort mag nooit een gok zijn.</p><p>Onze sokken zijn gemaakt van een hoogwaardige mix van nylon en spandex — zorgvuldig gekozen voor de perfecte balans tussen zachtheid, rek en duurzame ondersteuning.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Qi9HMw": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "STOF & VERZORGING",
+            "content": "<p>Onze sokken zijn gebreid van een hoogwaardige mix van nylon en spandex — zorgvuldig geselecteerd voor de perfecte balans tussen zachtheid, elasticiteit en langdurige ondersteuning.</p><p><strong>Zacht voor de huid:</strong> De gladde, ademende vezels houden je benen de hele dag koel en comfortabel.<br/><br/><strong>Slimme stretch:</strong> Sluit mooi aan zonder te knellen, zelfs wanneer je benen wat opzwellen.<br/><br/><strong>Gemaakt om lang mee te gaan:</strong> Behoudt vorm en stevigheid, was na was — ideaal voor dagelijks gebruik.<br/><br/><strong>Ondersteuning waar je die nodig hebt:</strong> Echte 15–20 mmHg geleidelijke compressie stimuleert de bloedsomloop en verlicht zware, vermoeide benen.</p><p><strong>Wasinstructies</strong><br/><br/>Machinewas op lage temperatuur en plat laten drogen. Gebruik een mild wasmiddel om de antibacteriële en geurwerende eigenschappen te behouden. Niet bleken en geen oxy boosters gebruiken.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_WjByYH": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "NOG invullen!",
+            "content": "",
             "page": ""
           }
         }
       },
       "block_order": [
         "liquid_VTbGny",
-        "section_store_block_social_proof_eGUGFn",
         "title",
         "badges",
         "price",
-        "section_store_block_benefits_list_yaRf4X",
-        "section_store_block_pulse_badge_NA4q9U",
         "rating",
         "payment_terms",
         "variant_picker",
-        "section_store_block_countdown_timer_dkrwRC",
         "buy_buttons",
-        "section_store_block_shipping_info_y4azEH",
         "offer_CE7M4Y",
-        "description",
-        "collapsible_text_Y6pUC9"
+        "collapsible_text_Y6pUC9",
+        "collapsible_text_Qi9HMw",
+        "collapsible_text_WjByYH"
       ],
       "custom_css": [],
       "settings": {
@@ -259,7 +149,6 @@
         "item_bKMUa4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Ontwerp_zonder_titel_-_2025-09-27T224640.642.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -272,7 +161,6 @@
         "item_xUBaXW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imgi_21_FAB1C60E-6DA8-48D9-B0F4-1FD6B8A1BA51.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -285,7 +173,6 @@
         "item_YPJPVa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imgi_164_5CEDB2F0-1EDA-4EFB-A2A1-66DE27B26DBE.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -324,7 +211,6 @@
         "testimonial_hfKTY9": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/8299e7097051a148b0d581b8b01baeef.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -336,7 +222,6 @@
         "testimonial_ViDei3": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/3_bc2e416c-90d0-4cf8-aec1-e702d9f9f274.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -348,7 +233,6 @@
         "testimonial_6nxV3R": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/2_20395223-18cd-40d6-a20a-ffb986217e71.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -360,7 +244,6 @@
         "testimonial_FbEbRF": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/f859354fa13121392111b7628dc04c90.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
