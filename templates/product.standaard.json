@@ -125,6 +125,16 @@
             "content": "",
             "page": ""
           }
+        },
+        "collapsible_text_GiUtbk": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "NOG invullen!",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -141,7 +151,8 @@
         "collapsible_text_Y6pUC9",
         "collapsible_text_Qi9HMw",
         "collapsible_text_DdjhAz",
-        "collapsible_text_WjByYH"
+        "collapsible_text_WjByYH",
+        "collapsible_text_GiUtbk"
       ],
       "custom_css": [],
       "settings": {
