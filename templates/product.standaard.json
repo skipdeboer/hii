@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_dgYKDW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"trust-badge\">\n  <img src=\"https://cdn-icons-png.flaticon.com/512/7641/7641727.png\" alt=\"check icon\" class=\"trust-icon\">\n  <span>Vertrouwd door Dr Anna., Sophie en 5.000+ anderen</span>\n</div>\n\n<style>\n.trust-badge {\n  display: flex;\n  align-items: center;\n  gap: 6px;\n  font-size: 15px;\n  color: #111;\n  font-weight: 400;\n}\n\n.trust-icon {\n  width: 18px;\n  height: 18px;\n}\n</style>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -122,6 +128,7 @@
         }
       },
       "block_order": [
+        "liquid_dgYKDW",
         "title",
         "badges",
         "price",
