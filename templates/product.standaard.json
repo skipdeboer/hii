@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_VTbGny": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"rating-container-prov\" style=\"font-size: 11px;\">\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n\n  <span class=\"review-text\">\n    <span class=\"bold-text\" style=\"font-weight: bold;\">4,8 / 5,0</span> gebaseerd op \n    <span class=\"bold-text\" style=\"font-weight: bold;\">495+ beoordelingen</span>\n  </span>\n</div>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -112,7 +106,6 @@
         }
       },
       "block_order": [
-        "liquid_VTbGny",
         "title",
         "badges",
         "price",
