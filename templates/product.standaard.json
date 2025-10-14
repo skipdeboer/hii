@@ -347,6 +347,7 @@
         "image_qbjVTT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/3.gif",
             "media_width": 55,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
