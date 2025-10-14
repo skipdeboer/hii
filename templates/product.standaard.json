@@ -332,7 +332,7 @@
           "settings": {
             "image": "shopify://shop_images/3.gif",
             "media_width": 55,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
@@ -376,7 +376,7 @@
           "settings": {
             "image": "shopify://shop_images/4.gif",
             "media_width": 55,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
