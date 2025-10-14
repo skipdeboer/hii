@@ -1,0 +1,1060 @@
+{
+  "sections": {
+    "image_link_blocks_Y6FfMt": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_qPtU8r": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10_c6df6d53-c715-480d-8148-3bf54f3a6f5e.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HrgbmX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_f90391ce-82b3-4998-9e72-61b485f2bcf8.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_hTzqna": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11_adb1caa4-c8bd-4adf-86ca-f4a11f3d44a4.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_jf9EzR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9_fcf3c10a-f952-472e-8e62-17706ed8d80c.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3xehPG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_qPtU8r",
+        "item_HrgbmX",
+        "item_hTzqna",
+        "item_jf9EzR",
+        "item_3xehPG"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "Geliefd door 5.000+ Vrouwen",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffdee8",
+        "background_gradient": "",
+        "text_color": "#212020",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "impact_text_QVqHgm": {
+      "type": "impact-text",
+      "blocks": {
+        "item_VhYN79": {
+          "type": "item",
+          "settings": {
+            "title": "96%",
+            "subheading": "Zegt dat ze comfortabeler zijn dan andere compressiekousen",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_bLKUba": {
+          "type": "item",
+          "settings": {
+            "title": "94%",
+            "subheading": "Voelde  aanzienlijke pijnvermindering binnen 2 weken",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_DAgwUV": {
+          "type": "item",
+          "settings": {
+            "title": "5.000+",
+            "subheading": "Vrouwen bestelde nog 1 of meer paar sokken na hun eerste bestelling",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_VhYN79",
+        "item_bLKUba",
+        "item_DAgwUV"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "media_with_text_YqqQ9L": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_BKGNpd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Vermindert zwelling vanaf dag één",
+            "content": "<p>Elvori compressiesokken gebruiken een <strong>geleidelijke druk van 15–20 mmHg<\/strong> om zwelling actief te verminderen.<\/p><p>Onze sokken omsluiten je kuiten zachtjes en stimuleren een <strong>gezonde bloedsomloop<\/strong> zonder te strak aan te voelen. Zo helpen ze mogelijke problemen zoals <strong>bloedstolsels te voorkomen<\/strong>, terwijl je de hele dag door comfort ervaart.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_4RP83c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Zeg vaarwel tegen knellende sokken",
+            "content": "<p>Wij maken compressiesokken waar je écht naar uitkijkt om te dragen.<br\/>In plaats van ongemak voelen ze als een <strong>zachte, ontspannende omhelzing<\/strong> – perfect bij <strong>zwelling, spataderen en vermoeide benen<\/strong>.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_h9hkW9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Moeiteloos aan- en uittrekken",
+            "content": "<p>Sokken aantrekken hoort geen worsteling te zijn.<br\/>Daarom zijn Elvori sokken gemaakt van <strong>super rekbare stof<\/strong> die gemakkelijk aan- en uitglijdt.<\/p><p>Trek ze ’s ochtends aan en voel direct het verschil: <strong>minder pijn, minder zwelling en meer energie<\/strong> gedurende de dag.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_X4aWLj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Stimuleert gezonde bloedsomloop",
+            "content": "<p>Een goede bloedsomloop is essentieel voor <strong>sterke, gezonde benen<\/strong>.<br\/>Everstride sokken bevorderen de natuurlijke doorstroming van bloed terug naar het hart en helpen zo <strong>ophoping van vocht en bloed<\/strong> in de benen te voorkomen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BKGNpd",
+        "image_4RP83c",
+        "image_h9hkW9",
+        "image_X4aWLj"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "testimonials_4VY3UA": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_LCDizw": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10_c6df6d53-c715-480d-8148-3bf54f3a6f5e.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Yara W.",
+            "title": "Super Compressie!",
+            "content": "<p>Kon nog maar korte stukjes lopen door zware benen. Sinds ik Elvori draag, loop ik weer zonder pijn naar de winkel én houd ik het veel langer vol<\/p>"
+          }
+        },
+        "testimonial_QkUcmH": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_147_4_fd94fc35-56d4-402d-aaf5-679eab75cf8d.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Moniek A.",
+            "title": "Goed geholpen",
+            "content": "<p>Sta hele dagen recht in het ziekenhuis voor werk, vroeger deed dat pijn aan m’n benen. Met Elvori voel ik aan het einde van de dag nog steeds energie in mijn benen.<\/p>"
+          }
+        },
+        "testimonial_JCBYRg": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_19_images_4.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Anna A.",
+            "title": "Zeer tevreden!",
+            "content": "<p>Na lange diensten op het werk had ik altijd zware benen. Sinds ik Elvori draag, merk ik dat de druk wegblijft en m’n benen niet meer pijn doen s'avonds.<\/p>"
+          }
+        },
+        "testimonial_BW8DPx": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_20_images_2.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sophie L.",
+            "title": "Een echte aanrader!",
+            "content": "<p>Ik had altijd last van dikke enkels na het lopen met de hond. Nu blijft alles mooi slank en voel ik m’n benen veel minder zwaar.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_LCDizw",
+        "testimonial_QkUcmH",
+        "testimonial_JCBYRg",
+        "testimonial_BW8DPx"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Klantervaringen",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "rich_text_zfAkef": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_7BkKc7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_FmCDR9": {
+          "type": "heading",
+          "settings": {
+            "text": "Probeer 60 dagen risico-vrij uit!",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_qcmThh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Jouw tevredenheid staat bij ons voorop. Ben je niet helemaal tevreden met je aankoop? Geen zorgen – je kunt binnen 60 dagen eenvoudig retourneren<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_7BkKc7",
+        "heading_FmCDR9",
+        "richtext_qcmThh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#dd2e63",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "section_store_block_social_proof_eGUGFn": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-social-proof\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "use_carousel": false,
+            "profile1": "shopify:\/\/shop_images\/een-dokter-vrouw-van-rond-de-60-jaar.png",
+            "profile2": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_-_2025-10-13T195223.745.png",
+            "profile3": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_-_2025-10-13T195356.746.png",
+            "slide_icon_size": 21,
+            "text": "<p><strong>Dr. Jasmine<\/strong> ✓, <strong>Dr. Anna<\/strong> ✓ & 5.000+ raadde ELVORI Compressie sokken aan<\/p>",
+            "text_size": 13,
+            "text_color": "#000000",
+            "checkmark_size": 14,
+            "symbols_color": "#42a5f5",
+            "border": "solid",
+            "border_thickness": 1,
+            "border_color": "#d7d7d7",
+            "radius": 0,
+            "bg_color": "#f6f6f6",
+            "padding_vertical": 12,
+            "padding_horizontal": 10,
+            "clip_as_header_of_wrapper": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h4"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_VzMKii": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n            <style>\n  @keyframes inventory-pulse {\n      0% {\n          opacity: 0.5;\n      }\n\n      100% {\n          transform: scale(2.5);\n          opacity: 0;\n      }\n  }\n\n  span.green_icon {\n      display: inline-block;\n      position: relative;\n      height: 25px;\n      width: 25px;\n  }\n\n  .icon--inventory:before {\n      animation: inventory-pulse 2s linear infinite;\n  }\n\n  .icon--inventory:after,\n  .icon--inventory:before {\n      width: 9px;\n      height: 9px;\n      background: #F5AF29;\n      border-radius: 9px;\n      position: absolute;\n      left: 0;\n      top: 0;\n      content: \"\";\n      margin: 8px;\n  }\n\n  .aus_stock {\n      display: flex;\n      align-items: center;\n  }\n\n  .aus-price s.price-item.price-item--regular {\n      font-size: 22px !important;\n      font-weight: bold !important;\n   color:#FF6D6D !important;\n  }\n\n  .aus-price span.price-item.price-item--sale.price-item--last {\n      font-size: 32px;\n      font-weight: bold;\n\n  }\n\n\n  .product-single__price--compare-at.text-muted.text-strike .money {\n      font-size: 28px;\n      display: inline-grid;\n     \n  }\n\n  span.badge.price__badge-sale{\n        position: relative;\n        top: 9px;\n        background-color: #FF6D6D;\n  }\n  .aus-price span.price-item.price-item--regular {\n      font-size: 32px;\n      font-weight: 800;\n  }\n\n  .product-single__price.on-sale.text-sale .money {\n      font-size: 38px;\n  }\n\n  .aus_stock {\n      margin-top: 0 !important;\n      color: #54c63a;\n      letter-spacing: -.5px;\n  }\n\n  button[name=\"add\"] {\n      box-shadow: 2px 3px 5px #0000009c;\n    background-color: #000000;\n    color: #ffffff;\n  }\n\n  button[name=\"add\"] span {\n      font-weight: 700;\n  }\nbutton[data-testid=\"Checkout-button\"] {\n    background-color: white;\n    color: black;\n    border: 0.05rem solid black;\n    display: none;\n}\n  .c.promoCheckmarks ul {\n      list-style: none;\n      margin: 0;\n      padding: 0;\n  }\n\n  img.icon-img-one {\n      width: 20px;\n      display: inline-block;\n      margin-right: 5px;\n  }\n\n  .c.promoCheckmarks li {\n      display: flex;\n      align-items: center;\n      margin-bottom: 8px;\n  }\n\n  img.icon-img-two {\n      width: 30px;\n      margin-left: -5px;\n  }\n\n  img.icon-img-three {\n      width: 25px;\n      margin-right: 5px;\n  }\n\n  .aus_p_container {\n      margin-top: 0 !important;\n      margin-bottom: 30px;\n  }\n\n  span.green_icon.icon--inventory+span {\n      margin-left: 5px;\n      display: inline-block;\n  }\n\n  img.icon-img-one {\n      margin-right: 8px;\n  }\n\n  span.icon-and-text img {\n      width: 20px;\n      margin-right: 8px;\n  }\n\n  span.icon-and-text {\n      display: flex;\n      align-items: center;\n  }\n\n  .aus_stock {\n      margin-left: -3px;\n  }\n  span.icon-and-text svg {\n    height: 25px;\n    margin-right: 5px;\n  }\n  \n  li.sales-point span {\n      color: #000000;\n  }\n<\/style>\n<div class=\"aus_p_container\">\n  <div class=\"aus_bullets\">\n    <div class=\"c promoCheckmarks\">\n      <ul>\n        <li>\n          <div class=\"aus_stock\">\n            <span class=\"green_icon icon--inventory\"><\/span>\n            <span style=\"color:#F5AF29\">Bijna Uitverkocht!<\/span>\n          <\/div>\n        <\/li>\n        <li class=\"sales-point\">\n          <span class=\"icon-and-text\">\n            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0810\/8146\/7205\/files\/Ontwerp_zonder_titel_16.png\" width=\"\" height=\"\">\n            <span> Tijdelijk Gratis Verzending<\/span>\n          <\/span>\n        <\/li>\n        <li class=\"sales-point\">\n          <span class=\"icon-and-text\">\n            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0756\/6956\/9865\/files\/Ontwerp_zonder_titel_43.png?v=1708607723\" width=\"\" height=\"\">\n            <span>100% Retour Garantie<\/span>\n          <\/span>\n        <\/li>\n        <li class=\"sales-point\">\n          <span class=\"icon-and-text\">\n      \n        <\/li>\n      <\/ul>\n    <\/div>\n  <\/div>\n<\/div>\n          <\/div>"
+          }
+        },
+        "section_store_block_benefits_list_yaRf4X": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-benefits-list\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "disabled": true,
+          "settings": {
+            "items_gap": 2,
+            "first_text": "<p>Gratis verzending in NL & BE<\/p>",
+            "second_text": "<p>100% Retour garantie<\/p>",
+            "third_text": "<p>Kwaliteit sinds 1980<\/p>",
+            "fourth_text": "",
+            "icon_size": 13,
+            "icon_color": "#2a555a",
+            "text_size": 15,
+            "text_color": "#000000",
+            "content_align": "left",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "padding_vertical": 0,
+            "padding_horizontal": 0
+          }
+        },
+        "section_store_block_pulse_badge_NA4q9U": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-pulse-badge\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "disabled": true,
+          "settings": {
+            "content_align": "left",
+            "use_indicator": false,
+            "pulse_icon_size": 8,
+            "pulse_icon_color": "#f1831d",
+            "text": "<p>Laatste items in voorraad<\/p>",
+            "text_size": 13,
+            "auto_text_weight": "normal",
+            "text_color": "#f1831c",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_right": 0
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": false,
+            "selector_style": "dropdown",
+            "swatch_selector_style": "none",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "section_store_block_countdown_timer_dkrwRC": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-countdown-timer\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "disabled": true,
+          "settings": {
+            "hour": 5,
+            "minute": 32,
+            "second": 26,
+            "progress_start": 20,
+            "action_on_complete": "hide",
+            "number_size": 15,
+            "number_color": "#000000",
+            "text": "<p>Zomer Sale eindigt in:<\/p>",
+            "text_size": 14,
+            "text_color": "#000000",
+            "progress_default_color": "#ebe9eb",
+            "progress_active_color": "#2a555a",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "padding_top": 4,
+            "padding_bottom": 4,
+            "padding_left": 0,
+            "padding_right": 0
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "section_store_block_shipping_info_y4azEH": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-shipping-info\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "use_dot": true,
+            "icon_color": "#2a555a",
+            "icon_size": 12,
+            "ships_by_text": "Verzonden:",
+            "shipping_within_days": 1,
+            "include_weekend": true,
+            "ships_by_font_size": 14,
+            "ships_by_text_color": "#000000",
+            "fast_shipping_text": "COUNTRY_FLAG Gratis verzending",
+            "allow_all_countries": true,
+            "allowed_countries": "US,CH,DE,AT,FR,IT",
+            "fast_shipping_text_for_rest_countries": "Fast International Shipping",
+            "fast_shipping_text_color": "#000000",
+            "border_style": "none",
+            "border_width": 1,
+            "border_color": "#000000",
+            "border_radius": 0,
+            "bg_color": "#f6f6f6",
+            "padding_vertical": 6,
+            "padding_horizontal": 15
+          }
+        },
+        "offer_CE7M4Y": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "center",
+            "icon_position": "aligned",
+            "icon": "none",
+            "icon_width": 20,
+            "title": "",
+            "content": "<p><strong>Let op: De 2+2 aanbieding eindigt om 23:59!<\/strong><\/p><p>Vanwege de grote vraag tijdens onze uitverkoop is er nog maar beperkte voorraad beschikbaar! Zolang je nog op 'Toevoegen aan winkelwagen' kunt klikken, is het artikel nog op voorraad.<\/p>",
+            "background": "#fee6e6",
+            "text_color": "#c30100"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "collapsible_text_Y6pUC9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "60 DAGEN RETOUR GARANTIE",
+            "content": "<p>De juiste pasvorm is alles. Daarom krijg je bij ons 60 dagen de tijd om je sokken écht te testen — draag ze, was ze, en ervaar het verschil.<\/p><p>Zitten ze niet helemaal goed? Stuur ons gewoon een e-mail met je bestelnummer en de maat die je nodig hebt. Wij sturen je gratis een nieuw paar op — het eerste paar mag je houden.<\/p><p>Want comfort mag nooit een gok zijn.<\/p><p>Onze sokken zijn gemaakt van een hoogwaardige mix van nylon en spandex — zorgvuldig gekozen voor de perfecte balans tussen zachtheid, rek en duurzame ondersteuning.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_HtWn9c": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "STOF & VERZORGING",
+            "content": "<p>Onze sokken zijn gebreid van een hoogwaardige mix van nylon en spandex — zorgvuldig geselecteerd voor de perfecte balans tussen zachtheid, elasticiteit en langdurige ondersteuning.<\/p><p><strong>Zacht voor de huid:<\/strong> De gladde, ademende vezels houden je benen de hele dag koel en comfortabel.<br\/><br\/><strong>Slimme stretch:<\/strong> Sluit mooi aan zonder te knellen, zelfs wanneer je benen wat opzwellen.<br\/><br\/><strong>Gemaakt om lang mee te gaan:<\/strong> Behoudt vorm en stevigheid, was na was — ideaal voor dagelijks gebruik.<br\/><br\/><strong>Ondersteuning waar je die nodig hebt:<\/strong> Echte 15–20 mmHg geleidelijke compressie stimuleert de bloedsomloop en verlicht zware, vermoeide benen.<\/p><p><strong>Wasinstructies<\/strong><br\/><br\/>Machinewas op lage temperatuur en plat laten drogen. Gebruik een mild wasmiddel om de antibacteriële en geurwerende eigenschappen te behouden. Niet bleken en geen oxy boosters gebruiken.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_xcWh6H": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "MAATVOERING",
+            "content": "<p>Voor dit artikel raden we aan om een maat groter te bestellen! Twijfel je? Raadpleeg dan de maattabel.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_PiFYkM": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "WASVOORSCHRIFT",
+            "content": "<p>Wij raden sterk aan om al onze producten met de hand te wassen. Gebruik je toch de wasmachine, kies dan altijd voor een handwasprogramma met lage temperatuur om krimpen of beschadigen van onze premium materialen te voorkomen.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "section_store_block_social_proof_eGUGFn",
+        "title",
+        "badges",
+        "price",
+        "liquid_VzMKii",
+        "section_store_block_benefits_list_yaRf4X",
+        "section_store_block_pulse_badge_NA4q9U",
+        "rating",
+        "payment_terms",
+        "variant_picker",
+        "section_store_block_countdown_timer_dkrwRC",
+        "buy_buttons",
+        "section_store_block_shipping_info_y4azEH",
+        "offer_CE7M4Y",
+        "description",
+        "collapsible_text_Y6pUC9",
+        "collapsible_text_HtWn9c",
+        "collapsible_text_xcWh6H",
+        "collapsible_text_PiFYkM"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 50,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "faq_g3kVqL": {
+      "type": "faq",
+      "blocks": {
+        "item_QMhLxb": {
+          "type": "item",
+          "settings": {
+            "title": "Wat is het verschil tussen Elvori en andere merken?",
+            "content": "<p>Kort gezegd: we hebben compressiesokken gemaakt die je écht graag zult dragen!<\/p><p>In tegenstelling tot andere merken die te strak zitten, lastig aan te trekken zijn of oncomfortabel voelen, zijn onze sokken ontworpen om <strong>makkelijk te dragen<\/strong> en tegelijkertijd <strong>comfortabele en effectieve verlichting<\/strong> te bieden.<\/p>"
+          }
+        },
+        "item_AQGdFz": {
+          "type": "item",
+          "settings": {
+            "title": "Wat is de 60-dagen pasvormgarantie van Elvori",
+            "content": "<p>We staan volledig achter onze producten. Als je niet tevreden bent met de pasvorm of het comfort binnen 60 dagen, kun je contact opnemen met ons team voor een passende oplossing.<\/p>"
+          }
+        },
+        "item_RdFCJ4": {
+          "type": "item",
+          "settings": {
+            "title": "Zijn de sokken makkelijk aan te trekken, ook met beperkte mobiliteit?",
+            "content": "<p>Ja! Onze compressiesokken zijn ontworpen om <strong>gemakkelijk aan te trekken<\/strong>.<br\/><br\/>Ze zijn <strong>zacht en rekbaar<\/strong>, en speciaal gemaakt met <strong>brede kuiten<\/strong> in gedachten.<\/p>"
+          }
+        },
+        "item_mDcdjt": {
+          "type": "item",
+          "settings": {
+            "title": "Hoe lang kan ik de sokken dragen?",
+            "content": "<p>Je kunt onze compressiesokken <strong>de hele dag dragen<\/strong>, meestal tussen de <strong>8 en 12 uur<\/strong>.<br\/><br\/>Ze zijn ontworpen voor langdurig gebruik en bieden <strong>ondersteuning en comfort<\/strong>, of je nu veel staat, lang zit of actief bezig bent.<\/p><p>Het wordt aangeraden om ze <strong>uit te trekken voordat je gaat slapen<\/strong>, tenzij anders wordt geadviseerd.<\/p><p><\/p>"
+          }
+        },
+        "item_hNrACw": {
+          "type": "item",
+          "settings": {
+            "title": "Kan ik deze sokken dragen tijdens lange vluchten?",
+            "content": "<p>Ja, onze compressiesokken zijn <strong>perfect voor lange vluchten!<\/strong><br\/><br\/>Ze helpen de <strong>bloedsomloop te verbeteren<\/strong>, <strong>zwelling te verminderen<\/strong> en <strong>ongemak te voorkomen<\/strong> tijdens langdurig zitten.<\/p>"
+          }
+        },
+        "item_KXj7rn": {
+          "type": "item",
+          "settings": {
+            "title": "Hoe strak zitten de sokken en welke druk bieden ze?",
+            "content": "<p>Onze compressiesokken hebben een <strong>geleidelijke druk van 15–20 mmHg<\/strong>, wat zorgt voor de perfecte balans tussen <strong>ondersteuning en verlichting<\/strong> zonder te strak te voelen.<\/p><p>Deze <strong>zachte, geleidelijke compressie<\/strong> biedt constante ondersteuning van <strong>enkel tot kuit<\/strong>, waardoor ze comfortabel genoeg zijn om de hele dag te dragen en toch effectief <strong>zwelling en ongemak verminderen<\/strong>.<\/p>"
+          }
+        },
+        "item_KhQiGm": {
+          "type": "item",
+          "settings": {
+            "title": "Kan ik deze sokken dragen bij diabetes, spataderen of oedeem?",
+            "content": "<p>Ja! Onze compressiesokken zijn ontworpen om te helpen bij <strong>diabetes, spataderen en oedeem<\/strong>.<br\/><br\/>Ze bieden een <strong>zachte, geleidelijke compressie<\/strong> die de <strong>bloedsomloop verbetert<\/strong>, <strong>zwelling vermindert<\/strong> en <strong>ongemak verlicht<\/strong>.<\/p>"
+          }
+        },
+        "item_KgYEmi": {
+          "type": "item",
+          "settings": {
+            "title": "Wordt het voetgedeelte groter bij grotere sokmaten?",
+            "content": "<p>Ja, naarmate de maat toeneemt, wordt ook het <strong>voetgedeelte iets ruimer<\/strong>.<br\/><br\/>We begrijpen dat mensen met bredere kuiten vaak ook <strong>grotere voeten<\/strong> hebben, dus dit zorgt ervoor dat de pasvorm <strong>comfortabel en ondersteunend blijft in elke maat<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_QMhLxb",
+        "item_AQGdFz",
+        "item_RdFCJ4",
+        "item_mDcdjt",
+        "item_hNrACw",
+        "item_KXj7rn",
+        "item_KhQiGm",
+        "item_KgYEmi"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vragen?",
+        "content": "<p>Bekijk de meestgestelde vragen van onze klanten. Staat jouw vraag er niet tussen? Neem gerust contact op met onze klantenservice.<\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "Ons supportteam is bereikbaar van maandag t\/m vrijdag, 9:00 – 18:00 uur.",
+        "answer_time": "We reageren meestal binnen 24 uur",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "image_link_blocks_KfNqHy": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_JQmiJA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_bc2e416c-90d0-4cf8-aec1-e702d9f9f274.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_adQq9B": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_20395223-18cd-40d6-a20a-ffb986217e71.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_beChtF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zonder_titel_736_x_1308_px_1_6cc8f5ef-9319-4929-a84d-ea86f4cf8174.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_hbCtaQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zonder_titel_736_x_1308_px.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_aeLkVb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Men_in_Old_Money_style.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_JQmiJA",
+        "item_adQq9B",
+        "item_beChtF",
+        "item_hbCtaQ",
+        "item_aeLkVb"
+      ],
+      "disabled": true,
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": true,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Heren met style!",
+        "content": "<p>Meer dan 15.000+ tevreden heren dragen Elvori<\/p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "video_eLeDzz": {
+      "type": "video",
+      "disabled": true,
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify:\/\/files\/videos\/banner elvori.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 14
+      }
+    },
+    "image_link_blocks_FwTxkq": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_bKMUa4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_-_2025-09-27T224640.642.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_xUBaXW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_21_FAB1C60E-6DA8-48D9-B0F4-1FD6B8A1BA51.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_YPJPVa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_164_5CEDB2F0-1EDA-4EFB-A2A1-66DE27B26DBE.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_bKMUa4",
+        "item_xUBaXW",
+        "item_YPJPVa"
+      ],
+      "disabled": true,
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": true,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Join onze community",
+        "content": "<p>Meer dan 15.000+ Tevreden klanten<\/p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "rich_text_LDtCm4": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_iXYHpL": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_QipRJX": {
+          "type": "heading",
+          "settings": {
+            "text": "Niet goed? Geld terug!",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_7tkjUA": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Jouw tevredenheid staat bij ons voorop. Ben je niet helemaal tevreden met je aankoop? Geen zorgen – je kunt binnen 30 dagen eenvoudig retourneren<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_iXYHpL",
+        "heading_QipRJX",
+        "richtext_7tkjUA"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#30545c",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "press_TiMGe7": {
+      "type": "press",
+      "blocks": {
+        "quote_Rbgwj9": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 50,
+            "author": "- Cas S.",
+            "content": "'Elvori laat me de perfecte balans ervaren tussen moderne stijl en klassieke klasse'",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_pDCa4k": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- David A.",
+            "content": "“Elvori straalt precies die discrete luxe uit die ik zocht. Geen poespas, gewoon super kleding”",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_bgAr4a": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "– Mark D",
+            "content": "“Ik draag Elvori zowel zakelijk als privé – altijd complimenten, altijd de juiste uitstraling.”",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_Rbgwj9",
+        "quote_pDCa4k",
+        "quote_bgAr4a"
+      ],
+      "disabled": true,
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "#ededed",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "1759088111b4610542": {
+      "type": "apps",
+      "blocks": {
+        "kiwi_size_chart_recommender_kiwi_sizing_hqBqeg": {
+          "type": "shopify:\/\/apps\/kiwi-size-chart-recommender\/blocks\/kiwiSizing\/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "product": "{{product}}",
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        }
+      },
+      "block_order": [
+        "kiwi_size_chart_recommender_kiwi_sizing_hqBqeg"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_link_blocks_Y6FfMt",
+    "impact_text_QVqHgm",
+    "media_with_text_YqqQ9L",
+    "testimonials_4VY3UA",
+    "rich_text_zfAkef",
+    "faq_g3kVqL",
+    "image_link_blocks_KfNqHy",
+    "video_eLeDzz",
+    "image_link_blocks_FwTxkq",
+    "rich_text_LDtCm4",
+    "press_TiMGe7",
+    "1759088111b4610542"
+  ]
+}
