@@ -353,8 +353,29 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Moeiteloos aan- en uittrekken",
+            "content": "<p>Sokken aantrekken hoort geen worsteling te zijn.<br/>Daarom zijn Elvori sokken gemaakt van <strong>super rekbare stof</strong> die gemakkelijk aan- en uitglijdt.</p><p>Trek ze ’s ochtends aan en voel direct het verschil: <strong>minder pijn, minder zwelling en meer energie</strong> gedurende de dag.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_fNATgU": {
+          "type": "image",
+          "settings": {
+            "media_width": 55,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Stimuleert gezonde bloedsomloop",
+            "content": "<p>Een goede bloedsomloop is essentieel voor <strong>sterke, gezonde benen</strong>.<br/>Everstride sokken bevorderen de natuurlijke doorstroming van bloed terug naar het hart en helpen zo <strong>ophoping van vocht en bloed</strong> in de benen te voorkomen.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -369,7 +390,8 @@
       "block_order": [
         "image_3NjbEQ",
         "image_AE48mN",
-        "image_qbjVTT"
+        "image_qbjVTT",
+        "image_fNATgU"
       ],
       "name": "Media with text",
       "settings": {
