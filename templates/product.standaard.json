@@ -149,6 +149,7 @@
         "item_bKMUa4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_73_1_54f0986a-53b6-404c-b72c-034c3abf89d8.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -161,6 +162,7 @@
         "item_xUBaXW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_72_9_d583ba6c-9e5b-4c43-ad19-a7258f86affb.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -173,6 +175,33 @@
         "item_YPJPVa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_70_11_7692f48f-a6a5-410a-a6bb-53d94ba554d2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_36TdYJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/imgi_66_2_cc4c066a-0dfb-497e-b23c-7b9ff39cedc2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_fmBqfQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/imgi_66_2_cc4c066a-0dfb-497e-b23c-7b9ff39cedc2.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -186,23 +215,86 @@
       "block_order": [
         "item_bKMUa4",
         "item_xUBaXW",
-        "item_YPJPVa"
+        "item_YPJPVa",
+        "item_36TdYJ",
+        "item_fmBqfQ"
       ],
-      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": true,
         "block_size": "medium",
         "subheading": "",
-        "title": "Join onze community",
-        "content": "<p>Meer dan 15.000+ Tevreden klanten</p>",
+        "title": "Geliefd Door 5.000+ Vrouwen",
+        "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#ffffff",
+        "background": "#ffdee8",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "impact_text_EV9Qp9": {
+      "type": "impact-text",
+      "blocks": {
+        "item_iR6tt6": {
+          "type": "item",
+          "settings": {
+            "title": "96%",
+            "subheading": "Zegt dat ze comfortabeler zijn dan andere compressiekousen",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_8dA6WW": {
+          "type": "item",
+          "settings": {
+            "title": "94%",
+            "subheading": "Voelde aanzienlijke pijnvermindering binnen 2 weken",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_XmqH6L": {
+          "type": "item",
+          "settings": {
+            "title": "5.000+",
+            "subheading": "Vrouwen bestelde nog 1 of meer paar sokken na hun eerste bestelling",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_iR6tt6",
+        "item_8dA6WW",
+        "item_XmqH6L"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.8,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "testimonials_Jya46e": {
@@ -437,6 +529,7 @@
   "order": [
     "main",
     "image_link_blocks_FwTxkq",
+    "impact_text_EV9Qp9",
     "testimonials_Jya46e",
     "rich_text_LDtCm4",
     "press_TiMGe7",
