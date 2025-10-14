@@ -325,14 +325,15 @@
         "image_AE48mN": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/3.gif",
             "media_width": 55,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Zeg vaarwel tegen knellende sokken",
+            "content": "<p>Wij maken compressiesokken waar je écht naar uitkijkt om te dragen.<br/>In plaats van ongemak voelen ze als een <strong>zachte, ontspannende omhelzing</strong> – perfect bij <strong>zwelling, spataderen en vermoeide benen</strong>.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
