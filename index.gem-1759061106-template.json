@@ -1,0 +1,364 @@
+{
+  "sections": {
+    "section-1": {
+      "type": "slideshow",
+      "blocks": {
+        "block-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_-_2025-09-27T224640.642.png",
+            "content_max_width": 920,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Herfst sale",
+            "title": "Tot 50% korting",
+            "heading_tag": "h4",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 17,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "block-1"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "linear-gradient(127deg, rgba(240, 240, 240, 1) 11%, rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "rich_text_TnqxyC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AymabF": {
+          "type": "heading",
+          "settings": {
+            "text": "Elvori's Missie",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_A4rccq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Iedereen verdient het om stijlvol gekleed te gaan. Met onze Style til je je look naar een hoger niveau – zonder teveel te betalen<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AymabF",
+        "richtext_A4rccq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_pMABKx": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "homepage-elvori",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Bestsellers",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "image_link_blocks_abDeaR": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_LXEPXC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_-_2025-09-27T224640.642.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_NAm3Ln": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_21_FAB1C60E-6DA8-48D9-B0F4-1FD6B8A1BA51.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wYyQVz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_164_5CEDB2F0-1EDA-4EFB-A2A1-66DE27B26DBE.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_LXEPXC",
+        "item_NAm3Ln",
+        "item_wYyQVz"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Join onze community",
+        "content": "<p>Meer dan 15.000+ Tevreden klanten<\/p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "section-15": {
+      "type": "feature-chart",
+      "blocks": {
+        "block-1": {
+          "type": "headings",
+          "settings": {
+            "heading_1": "Driver",
+            "heading_2": "Weight",
+            "heading_3": "Dimensions",
+            "heading_4": "Battery",
+            "heading_5": "",
+            "heading_6": "",
+            "heading_7": "",
+            "heading_8": "",
+            "heading_9": "",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_20": ""
+          }
+        },
+        "block-2": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>40mm Beryllium<\/p>",
+            "value_2": "<p>245g<\/p>",
+            "value_3": "<p>165mm x 190mm x 66mm<\/p>",
+            "value_4": "<p>24 hours<\/p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "block-3": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>40mm Beryllium<\/p>",
+            "value_2": "<p>205g (On-Ear), 239g (Over-Ear)<\/p>",
+            "value_3": "<p>190mm x 155mm x 34mm (On-Ear), 200mm x 165mm x 40mm (Over-Ear)<\/p>",
+            "value_4": "<p>16 hours<\/p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "subheading": "Compare",
+        "title": "Highlight key differences at a glance",
+        "content": "<p>This section is perfect for showcasing product comparisons side-by-side. Use it to display key features, specifications, and pricing so customers can quickly decide which item fits their needs.<\/p>",
+        "button_text": "Learn more",
+        "button_url": "",
+        "text_position": "start",
+        "max_rows": 5,
+        "view_all_text": "View all",
+        "view_less_text": "View less",
+        "view_product": "View",
+        "viewing_product": "",
+        "show_product_swatch": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "",
+        "chart_text_color": "",
+        "chart_true_false_color": ""
+      }
+    },
+    "section-18": {
+      "type": "faq",
+      "blocks": {
+        "block-1": {
+          "type": "item",
+          "settings": {
+            "title": "Verzending",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "block-2": {
+          "type": "item",
+          "settings": {
+            "title": "Retourneren",
+            "content": "<p>Bent u niet helemaal tevreden? Maak u geen zorgen! U kunt uw bestelling binnen 30 dagen na ontvangst eenvoudig en snel retourneren. Wij zorgen ervoor dat de procedure zonder problemen verloopt, zodat u zich geen zorgen hoeft te maken.<\/p>"
+          }
+        },
+        "block-3": {
+          "type": "item",
+          "settings": {
+            "title": "Maat",
+            "content": "<p>Onze kleding is exact de maat die in de maattabel staat aangegeven. Staat de maattabel er niet bij? Dan raden wij aan om 1 maat groter te kiezen dan gebruikelijk.<\/p>"
+          }
+        },
+        "item_preGQK": {
+          "type": "item",
+          "settings": {
+            "title": "Andere vragen?",
+            "content": "<p>Heeft u een vraag of heeft u advies nodig? Aarzel dan niet om contact met ons op te nemen. Wij staan voor u klaar om u te helpen en te adviseren.<\/p><p>E-mail: Contact@Elvori.nl<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3",
+        "item_preGQK"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Vragen?",
+        "content": "<p>Bekijk de meestgestelde vragen van onze klanten. Staat jouw vraag er niet tussen? Neem gerust contact op met onze klantenservice.<\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "Ons supportteam is bereikbaar van maandag t\/m vrijdag, 9:00 – 18:00 uur.",
+        "answer_time": "We reageren meestal binnen 24 uur",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "media_with_text_FMeqQE": {
+      "type": "media-with-text",
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    }
+  },
+  "order": [
+    "section-1",
+    "rich_text_TnqxyC",
+    "featured_collection_pMABKx",
+    "image_link_blocks_abDeaR",
+    "section-15",
+    "section-18",
+    "media_with_text_FMeqQE"
+  ]
+}

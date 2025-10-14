@@ -1,0 +1,481 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "section_store_block_social_proof_eGUGFn": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-social-proof\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "use_carousel": false,
+            "profile1": "shopify:\/\/shop_images\/imgi_17_1b423f62fa5eeb1896b3c5b11243827d.jpg",
+            "profile2": "shopify:\/\/shop_images\/imgi_21_FAB1C60E-6DA8-48D9-B0F4-1FD6B8A1BA51.png",
+            "profile3": "shopify:\/\/shop_images\/imgi_25_9af55eb1935530c8bc9d99a5497cb765.jpg",
+            "slide_icon_size": 21,
+            "text": "<p><strong>David<\/strong> ✓, <strong>Mark<\/strong> ✓ En 15.000+ andere dragen ELVORI<\/p>",
+            "text_size": 13,
+            "text_color": "#000000",
+            "symbols_color": "#42a5f5",
+            "border": "solid",
+            "border_thickness": 1,
+            "border_color": "#d7d7d7",
+            "radius": 0,
+            "bg_color": "#f6f6f6",
+            "padding_vertical": 12,
+            "padding_horizontal": 10
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h5"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "section_store_block_benefits_list_yaRf4X": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-benefits-list\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "first_text": "<p>Gratis verzending in NL & BE<\/p>",
+            "second_text": "<p>30 Dagen retour garantie<\/p>",
+            "third_text": "<p>Kwaliteit sinds 2018<\/p>",
+            "fourth_text": "",
+            "icon_size": 13,
+            "icon_color": "#2a555a",
+            "text_size": 15,
+            "text_color": "#000000",
+            "content_align": "left",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "padding_vertical": 10,
+            "padding_horizontal": 0
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "section_store_block_countdown_timer_dkrwRC": {
+          "type": "shopify:\/\/apps\/section-store\/blocks\/block-countdown-timer\/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "hour": 9,
+            "minute": 32,
+            "second": 26,
+            "progress_start": 70,
+            "action_on_complete": "hide",
+            "number_size": 15,
+            "number_color": "#000000",
+            "text": "<p>Uitverkoop eindigt in:<\/p>",
+            "text_size": 14,
+            "text_color": "#000000",
+            "progress_default_color": "#ebe9eb",
+            "progress_active_color": "#000000",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "background": "",
+            "padding_top": 4,
+            "padding_bottom": 4,
+            "padding_left": 0,
+            "padding_right": 0
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "offer_CE7M4Y": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "icon_width": 20,
+            "title": "Tijdelijke Sale: Bundel & Bespaar",
+            "content": "<ul><li>2 items → 10% voordeel<\/li><li>3 items → 15% voordeel<\/li><li>4 of meer → 25% voordeel<\/li><\/ul>",
+            "background": "#f7f7f7",
+            "text_color": "#2a555a"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "collapsible_text_Y6pUC9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "VERZENDING & RETOURNEREN",
+            "content": "<p>Share some content to your customers about your products.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_xcWh6H": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "MAATVOERING",
+            "content": "<p>Onze kleding valt normaal op maat. Twijfel je tussen twee maten? Dan raden we aan om één maat groter te kiezen voor de beste pasvorm.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_PiFYkM": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "WASVOORSCHRIFT",
+            "content": "<p>Wij raden sterk aan om al onze producten met de hand te wassen. Gebruik je toch de wasmachine, kies dan altijd voor een handwasprogramma met lage temperatuur om krimpen of beschadigen van onze premium materialen te voorkomen.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "section_store_block_social_proof_eGUGFn",
+        "title",
+        "badges",
+        "price",
+        "section_store_block_benefits_list_yaRf4X",
+        "rating",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "section_store_block_countdown_timer_dkrwRC",
+        "buy_buttons",
+        "offer_CE7M4Y",
+        "description",
+        "collapsible_text_Y6pUC9",
+        "collapsible_text_xcWh6H",
+        "collapsible_text_PiFYkM"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 50,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "image_link_blocks_FwTxkq": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_bKMUa4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_-_2025-09-27T224640.642.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_xUBaXW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_21_FAB1C60E-6DA8-48D9-B0F4-1FD6B8A1BA51.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_YPJPVa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imgi_164_5CEDB2F0-1EDA-4EFB-A2A1-66DE27B26DBE.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_bKMUa4",
+        "item_xUBaXW",
+        "item_YPJPVa"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Join onze community",
+        "content": "<p>Meer dan 15.000+ Tevreden klanten<\/p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "video_eLeDzz": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify:\/\/files\/videos\/banner elvori.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_LDtCm4": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_iXYHpL": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_QipRJX": {
+          "type": "heading",
+          "settings": {
+            "text": "30 Dagen garantie",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_7tkjUA": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Jouw tevredenheid staat bij ons voorop. Ben je niet helemaal tevreden met je aankoop? Geen zorgen – je kunt binnen 30 dagen eenvoudig retourneren<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_iXYHpL",
+        "heading_QipRJX",
+        "richtext_7tkjUA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_XyetkD": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "vaak-samen-gekocht-man-winter-vesten",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Vaak samen gekocht",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "press_TiMGe7": {
+      "type": "press",
+      "blocks": {
+        "quote_Rbgwj9": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- Cas S.",
+            "content": "“Elvori geeft me die verfijnde klasse waar ik altijd naar op zoek was. Ik voel me zelfverzekerd en chic.”",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_pDCa4k": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- David A.",
+            "content": "“Elvori straalt precies die discrete luxe uit die ik zocht. Geen poespas, gewoon pure klasse.”",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_bgAr4a": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "– Mark D",
+            "content": "“Ik draag Elvori zowel zakelijk als privé – altijd complimenten, altijd de juiste uitstraling.”",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_Rbgwj9",
+        "quote_pDCa4k",
+        "quote_bgAr4a"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "#ededed",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "faq_dkMwPi": {
+      "type": "faq",
+      "blocks": {
+        "item_gNMhfk": {
+          "type": "item",
+          "settings": {
+            "title": "Verzending",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "item_fnLi7w": {
+          "type": "item",
+          "settings": {
+            "title": "Retourneren",
+            "content": "<p>Bent u niet helemaal tevreden? Maak u geen zorgen! U kunt uw bestelling binnen 30 dagen na ontvangst eenvoudig en snel retourneren. Wij zorgen ervoor dat de procedure zonder problemen verloopt, zodat u zich geen zorgen hoeft te maken.<\/p>"
+          }
+        },
+        "item_p3tzdC": {
+          "type": "item",
+          "settings": {
+            "title": "Maat",
+            "content": "<p>Onze kleding is exact de maat die in de maattabel staat aangegeven. Staat de maattabel er niet bij? Dan raden wij aan om 1 maat groter te kiezen dan gebruikelijk.<\/p>"
+          }
+        },
+        "item_3Ft8aL": {
+          "type": "item",
+          "settings": {
+            "title": "Andere vragen?",
+            "content": "<p>Heeft u een vraag of heeft u advies nodig? Aarzel dan niet om contact met ons op te nemen. Wij staan voor u klaar om u te helpen en te adviseren.<\/p><p>E-mail: Contact@Elvori.nl<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_gNMhfk",
+        "item_fnLi7w",
+        "item_p3tzdC",
+        "item_3Ft8aL"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Vragen?",
+        "content": "<p>Bekijk de meestgestelde vragen van onze klanten. Staat jouw vraag er niet tussen? Neem gerust contact op met onze klantenservice.<\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "Ons supportteam is bereikbaar van maandag t\/m vrijdag, 9:00 – 18:00 uur.",
+        "answer_time": "We reageren meestal binnen 24 uur",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_link_blocks_FwTxkq",
+    "video_eLeDzz",
+    "rich_text_LDtCm4",
+    "featured_collection_XyetkD",
+    "press_TiMGe7",
+    "faq_dkMwPi"
+  ]
+}
