@@ -81,9 +81,19 @@
             "icon": "none",
             "icon_width": 20,
             "title": "",
-            "content": "<p><strong>Let op: De 2+2 aanbieding is bijna uitverkocht</strong></p><p>Vanwege de grote vraag tijdens onze uitverkoop is er nog maar beperkte voorraad beschikbaar! Zolang je nog op 'Toevoegen aan winkelwagen' kunt klikken, is het artikel nog op voorraad.</p>",
+            "content": "<p><strong>Let op: De bundel aanbieding is bijna uitverkocht</strong></p><p>Vanwege de grote vraag tijdens onze bundel aanbieding is er nog maar beperkte voorraad beschikbaar! Zolang je nog op 'Toevoegen aan winkelwagen' kunt klikken, is het artikel nog op voorraad.</p>",
             "background": "#fee6e6",
             "text_color": "#c30100"
+          }
+        },
+        "collapsible_text_DdjhAz": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "MAAT TABEL",
+            "content": "",
+            "page": "maat-tabel"
           }
         },
         "collapsible_text_Y6pUC9": {
@@ -104,16 +114,6 @@
             "title": "STOF & VERZORGING",
             "content": "<p>Onze sokken zijn gebreid van een hoogwaardige mix van nylon en spandex — zorgvuldig geselecteerd voor de perfecte balans tussen zachtheid, elasticiteit en langdurige ondersteuning.</p><p><strong>Zacht voor de huid:</strong> De gladde, ademende vezels houden je benen de hele dag koel en comfortabel.<br/><br/><strong>Slimme stretch:</strong> Sluit mooi aan zonder te knellen, zelfs wanneer je benen wat opzwellen.<br/><br/><strong>Gemaakt om lang mee te gaan:</strong> Behoudt vorm en stevigheid, was na was — ideaal voor dagelijks gebruik.<br/><br/><strong>Ondersteuning waar je die nodig hebt:</strong> Echte 15–20 mmHg geleidelijke compressie stimuleert de bloedsomloop en verlicht zware, vermoeide benen.</p><p><strong>Wasinstructies</strong><br/><br/>Machinewas op lage temperatuur en plat laten drogen. Gebruik een mild wasmiddel om de antibacteriële en geurwerende eigenschappen te behouden. Niet bleken en geen oxy boosters gebruiken.</p>",
             "page": ""
-          }
-        },
-        "collapsible_text_DdjhAz": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "MAAT TABEL",
-            "content": "",
-            "page": "maat-tabel"
           }
         },
         "collapsible_text_WjByYH": {
@@ -148,9 +148,9 @@
         "variant_picker",
         "buy_buttons",
         "offer_CE7M4Y",
+        "collapsible_text_DdjhAz",
         "collapsible_text_Y6pUC9",
         "collapsible_text_Qi9HMw",
-        "collapsible_text_DdjhAz",
         "collapsible_text_WjByYH",
         "collapsible_text_GiUtbk"
       ],
