@@ -14,10 +14,10 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_qVzRkQ": {
+        "message_bicTiq": {
           "type": "message",
           "settings": {
-            "text": "Herfst Sale - Bestel 2, Ontvang 2",
+            "text": "Herfst Sale - Bestel 2, Ontvang 2 GRATIS",
             "url": ""
           }
         },
@@ -34,21 +34,12 @@
             "text": "30 Dagen geld terug garantie",
             "url": ""
           }
-        },
-        "message_bicTiq": {
-          "type": "message",
-          "disabled": true,
-          "settings": {
-            "text": "De uitverkoop eindigt vandaag!",
-            "url": ""
-          }
         }
       },
       "block_order": [
-        "message_qVzRkQ",
+        "message_bicTiq",
         "message",
-        "message_Xkkbit",
-        "message_bicTiq"
+        "message_Xkkbit"
       ],
       "settings": {
         "enable_sticky": false,
