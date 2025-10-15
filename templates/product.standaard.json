@@ -295,7 +295,7 @@
         "item_XmqH6L": {
           "type": "item",
           "settings": {
-            "title": "5.000+",
+            "title": "2.500+",
             "subheading": "Vrouwen bestelde nog 1 of meer paar sokken na hun eerste bestelling",
             "content": "",
             "button_text": "",
@@ -352,28 +352,6 @@
             "button_text_color": ""
           }
         },
-        "image_AE48mN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_15_okt_2025_15_42_32.png",
-            "media_width": 55,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Zeg vaarwel tegen strakke sokken",
-            "content": "<p>Wij maken compressiekousen die écht prettig aanvoelen.<br/><br/>Geen knellend gevoel of extra ongemak, maar een zachte, ondersteunende pasvorm die aanvoelt als een geruststellende omarming — ideaal bij zwelling, spataderen en vermoeide benen.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
         "image_qbjVTT": {
           "type": "image",
           "settings": {
@@ -386,6 +364,28 @@
             "subheading": "",
             "title": "Moeiteloos aan- en uittrekken",
             "content": "<p>Sokken aantrekken hoort geen worsteling te zijn.<br/>Daarom zijn Elvori sokken gemaakt van <strong>super rekbare stof</strong> die gemakkelijk aan- en uitglijdt.</p><p>Trek ze ’s ochtends aan en voel direct het verschil: <strong>minder pijn, minder zwelling en meer energie</strong> gedurende de dag.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_AE48mN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_15_okt_2025_15_42_32.png",
+            "media_width": 55,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Zeg vaarwel tegen strakke sokken",
+            "content": "<p>Wij maken compressiekousen die écht prettig aanvoelen.<br/><br/>Geen knellend gevoel of extra ongemak, maar een zachte, ondersteunende pasvorm die aanvoelt als een geruststellende omarming — ideaal bij zwelling, spataderen en vermoeide benen.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -421,8 +421,8 @@
       },
       "block_order": [
         "image_3NjbEQ",
-        "image_AE48mN",
         "image_qbjVTT",
+        "image_AE48mN",
         "image_fNATgU"
       ],
       "name": "Media with text",
@@ -444,7 +444,7 @@
             "rating": 5,
             "author": "Yara W.",
             "title": "Super Compressie!",
-            "content": "<p>Kon nog maar korte stukjes lopen door zware benen. Sinds ik Elvori draag, loop ik weer zonder pijn naar de winkel én houd ik het veel langer vol</p>"
+            "content": "<p>Kon nog maar korte stukjes lopen door mijn zware benen. Sinds ik Elvori draag, loop ik weer zonder pijn naar de winkel én houd ik het veel langer vol!</p>"
           }
         },
         "testimonial_Tc3LzW": {
@@ -456,7 +456,7 @@
             "rating": 5,
             "author": "Moniek A.",
             "title": "Goed geholpen",
-            "content": "<p>Sta hele dagen recht in het ziekenhuis voor werk, vroeger deed dat pijn aan m’n benen. Met Elvori voel ik aan het einde van de dag nog steeds energie in mijn benen.</p>"
+            "content": "<p>Sta hele dagen op mijn voeten in het ziekenhuis voor werk, vroeger deed dat pijn aan m’n benen. Met Elvori voel ik aan het einde van de dag nog steeds energie in mijn benen.</p>"
           }
         },
         "testimonial_Ud8tK8": {
@@ -468,7 +468,7 @@
             "rating": 5,
             "author": "Anna A.",
             "title": "Zeer tevreden!",
-            "content": "<p>Na lange diensten op het werk had ik altijd zware benen. Sinds ik Elvori draag, merk ik dat de druk wegblijft en m’n benen niet meer pijn doen s'avonds.</p>"
+            "content": "<p>Ik ben nu 8 maanden zwanger en ik was altijd snel vermoeid na een lange tijd staan. Ik merk echt dat ik meer energie overhou eind van de dag! Super blij mee</p>"
           }
         },
         "testimonial_ibNYnA": {
