@@ -731,6 +731,13 @@
             "content": "<p>Kort gezegd: we hebben compressiesokken gemaakt die je écht graag zult dragen!</p><p>In tegenstelling tot andere merken die te strak zitten, lastig aan te trekken zijn of oncomfortabel voelen, zijn onze sokken ontworpen om <strong>makkelijk te dragen</strong> en tegelijkertijd <strong>comfortabele en effectieve verlichting</strong> te bieden.</p>"
           }
         },
+        "item_6qyX4z": {
+          "type": "item",
+          "settings": {
+            "title": "Gratis verzending",
+            "content": "<p>Wij bieden gratis verzending binnen Nederland & België, samen met onze vertrouwde partners PostNL & Bpost. Je kunt jouw pakketje eenvoudig volgen via de Track & Trace code die je ontvangt.</p>"
+          }
+        },
         "item_frGgHm": {
           "type": "item",
           "settings": {
@@ -783,6 +790,7 @@
       },
       "block_order": [
         "item_4V7FEy",
+        "item_6qyX4z",
         "item_frGgHm",
         "item_iA3r8T",
         "item_a7tT3B",
