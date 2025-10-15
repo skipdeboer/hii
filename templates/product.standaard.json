@@ -176,10 +176,10 @@
     "image_link_blocks_FwTxkq": {
       "type": "image-link-blocks",
       "blocks": {
-        "item_bKMUa4": {
+        "item_YPJPVa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imgi_73_1_54f0986a-53b6-404c-b72c-034c3abf89d8.jpg",
+            "image": "shopify://shop_images/imgi_70_11_7692f48f-a6a5-410a-a6bb-53d94ba554d2.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -202,10 +202,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_xUBaXW": {
+        "item_bKMUa4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imgi_72_9_d583ba6c-9e5b-4c43-ad19-a7258f86affb.jpg",
+            "image": "shopify://shop_images/imgi_73_1_54f0986a-53b6-404c-b72c-034c3abf89d8.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -215,10 +215,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_YPJPVa": {
+        "item_xUBaXW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imgi_70_11_7692f48f-a6a5-410a-a6bb-53d94ba554d2.jpg",
+            "image": "shopify://shop_images/imgi_72_9_d583ba6c-9e5b-4c43-ad19-a7258f86affb.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -243,10 +243,10 @@
         }
       },
       "block_order": [
-        "item_bKMUa4",
-        "item_fmBqfQ",
-        "item_xUBaXW",
         "item_YPJPVa",
+        "item_fmBqfQ",
+        "item_bKMUa4",
+        "item_xUBaXW",
         "item_36TdYJ"
       ],
       "name": "Image link blocks",
@@ -465,7 +465,7 @@
             "image": "shopify://shop_images/3_1b91f065-dfd0-4eec-9738-39920c7955a7.png",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Anna A.",
             "title": "Zeer tevreden!",
             "content": "<p>Na lange diensten op het werk had ik altijd zware benen. Sinds ik Elvori draag, merk ik dat de druk wegblijft en m’n benen niet meer pijn doen s'avonds.</p>"
