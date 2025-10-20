@@ -15,8 +15,8 @@
         "block-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/imgi_59_imgi_3_Everstride-Hero_e31746d1-4777-4ef0-bcd3-0fa8ce372c00.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/imgi_59_imgi_3_Everstride-Hero_eaf36cb8-d263-4d90-a99c-9daae19611ba.jpg",
+            "image": "shopify:\/\/shop_images\/ChatGPT_Image_15_okt_2025_23_08_28.png",
+            "mobile_image": "shopify:\/\/shop_images\/ChatGPT_Image_15_okt_2025_23_08_28_1b09787d-4f04-4067-af8a-897c26fc33d7.png",
             "content_max_width": 920,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -24,7 +24,7 @@
             "title": "De originele brede compressiekousen voor vrouwen",
             "heading_tag": "h4",
             "button_text": "Shop Nu",
-            "button_link": "shopify:\/\/collections\/dames",
+            "button_link": "shopify:\/\/products\/elvori™-geavanceerde-brede-compressiekousen-voor-pijnverlichting",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -189,7 +189,7 @@
         "item_8NfdYp": {
           "type": "item",
           "settings": {
-            "title": "Wat is het verschil tussen Everstride en andere merken?",
+            "title": "Wat is het verschil tussen Elvori en andere merken?",
             "content": "<p>Kort gezegd: we hebben compressiesokken gemaakt die je écht graag zult dragen!<\/p><p>In tegenstelling tot andere merken die te strak zitten, lastig aan te trekken zijn of oncomfortabel voelen, zijn onze sokken ontworpen om <strong>makkelijk te dragen<\/strong> en tegelijkertijd <strong>comfortabele en effectieve verlichting<\/strong> te bieden.<\/p>"
           }
         },
